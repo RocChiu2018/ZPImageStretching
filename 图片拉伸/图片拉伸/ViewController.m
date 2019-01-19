@@ -20,11 +20,11 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     
-//    [self pictureStretch1];
+    [self pictureStretch1];
     
 //    [self pictureStretch2];
     
-    [self pictureStretch3];
+//    [self pictureStretch3];
 }
 
 #pragma mark ————— 图片拉伸方法1 —————
